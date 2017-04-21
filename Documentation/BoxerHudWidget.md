@@ -5,7 +5,7 @@ Base class for the KinectBoxer display HUD.
 
 ## Functions
 Name     |   Description
------------|-----------|---------|--------
+-----------|--------
 **GetDisplayString**       | Retrieves the current's hud main title string
 **GetPlayer1ScoreString**       | Retrieves player's 1 score value as a string
 **GetPlayer2ScoreString**       | Retrieves player's 2 score value as a string
