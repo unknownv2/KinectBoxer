@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3195953,
+	"CompatibleChangelist" : 0,
+	"BuildId" : "09ca192c-3677-43fa-bdab-b7c0302718cc",
+	"Modules" : 
+	{
+		"Kinect4Unreal" : "UE4Editor-Kinect4Unreal.dll"
+	}
+}
